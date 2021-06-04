@@ -1,13 +1,8 @@
-## CIT 281 Project 02
+## CIT 281 Project 03
 
 In this project, we had to:
-- Use the command line interface (CLI) of your operating system to create and work with a git repository (repo)
-- Refactor the JavaScript program from the previous project to practice using git and practice refactoring
-- Use git via VSCode
-  - Create and use a .gitignore file
-  - Diff split screen
+Create a "coinage" code module that is capable of calculating the total value of coin objects. After completing the "coinage" code module functionality, we had to  update the "server" code file as a true Node.js web server using the Fastify package. The initial web page was then loaded from a file.
 
-
-Throughout the project, I learned how to use git with my CLI and VSCode. I also learned how to refactor JS code. 
+Throughout the project, I learned how to take a word problem of sorts and turn it into code that serves a function. I also got to practice with Fastify and GET verbs more.
 
 Click "View on GitHub" button to see project code. 
